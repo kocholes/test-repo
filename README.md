@@ -1,3 +1,5 @@
 Pruebas de GitHub
 
-esta es una modificación al archivo de prueba
+Ésta es una modificación al archivo de prueba.
+
+Ésta es una nueva modificación.
